@@ -1,0 +1,8 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Let's use 4 GPUs!
+
+Train Epoch: 1 
+ Batch Size: 512 
+ Running Time: 8.272321  
+

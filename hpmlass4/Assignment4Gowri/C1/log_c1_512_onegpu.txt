@@ -1,0 +1,8 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Let's use 1 GPU!
+
+Train Epoch: 1 
+ Batch Size: 512 
+ Epoch Computation: 5.201220  
+
