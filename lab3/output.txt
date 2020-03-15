@@ -1,0 +1,93 @@
+
+Convolution with CUDA:
+
+
+Iteration number: 1
+cuda input tensor checksum: 3218079744.00
+Copy host->dev kernel 0.002315 sec
+Time kernel 0.015987 sec
+Copy dev->host kernel 0.313172 sec
+Cuda output tensor checksum: 122756344698240.00
+
+
+Iteration number: 2
+cuda input tensor checksum: 3218079744.00
+Copy host->dev kernel 0.002412 sec
+Time kernel 0.015772 sec
+Copy dev->host kernel 0.295269 sec
+Cuda output tensor checksum: 122756344698240.00
+
+
+Iteration number: 3
+cuda input tensor checksum: 3218079744.00
+Copy host->dev kernel 0.002619 sec
+Time kernel 0.015764 sec
+Copy dev->host kernel 0.297338 sec
+Cuda output tensor checksum: 122756344698240.00
+
+
+Iteration number: 4
+cuda input tensor checksum: 3218079744.00
+Copy host->dev kernel 0.002361 sec
+Time kernel 0.015775 sec
+Copy dev->host kernel 0.297255 sec
+Cuda output tensor checksum: 122756344698240.00
+
+
+Iteration number: 5
+cuda input tensor checksum: 3218079744.00
+Copy host->dev kernel 0.002373 sec
+Time kernel 0.015748 sec
+Copy dev->host kernel 0.293466 sec
+Cuda output tensor checksum: 122756344698240.00
+
+Convolution with CUDNN.
+
+
+Iteration number: 1
+cuda input tensor checksum: 3218079744.00
+Copy host->dev kernel 0.002354 sec
+Time kernel 0.016424 sec
+Copy dev->host kernel 0.291757 sec
+cuda output tensor checksum: 122756344698240.00
+
+
+Iteration number: 2
+cuda input tensor checksum: 3218079744.00
+Copy host->dev kernel 0.002419 sec
+Time kernel 0.016387 sec
+Copy dev->host kernel 0.292286 sec
+cuda output tensor checksum: 122756344698240.00
+
+
+Iteration number: 3
+cuda input tensor checksum: 3218079744.00
+Copy host->dev kernel 0.002344 sec
+Time kernel 0.016357 sec
+Copy dev->host kernel 0.328866 sec
+cuda output tensor checksum: 122756344698240.00
+
+
+Iteration number: 4
+cuda input tensor checksum: 3218079744.00
+Copy host->dev kernel 0.002602 sec
+Time kernel 0.016357 sec
+Copy dev->host kernel 0.310108 sec
+cuda output tensor checksum: 122756344698240.00
+
+
+Iteration number: 5
+cuda input tensor checksum: 3218079744.00
+Copy host->dev kernel 0.002363 sec
+Time kernel 0.016346 sec
+Copy dev->host kernel 0.299481 sec
+cuda output tensor checksum: 122756344698240.00
+
+
+ <Average Convolution Time>: Conv 0.015809 sec  cuDNN 0.016374 sec
+
+
+ <Average Host to Device Time>: Conv 0.002416 sec  cuDNN 0.002416 sec
+
+
+ <Average Device to Host Time>: Conv 0.299300 sec  cuDNN 0.304500 sec
