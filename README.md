@@ -1,4 +1,4 @@
-# High-Performance-machine-learning, fall 2019
+# High-Performance-Machine-Learning, fall 2019
 
 Dr Ulrich finkler, Dr Wei Zhang, NYU
 
